@@ -1,7 +1,7 @@
 # rest_api_example
 An example REST API CRUD operation in expressjs
 
-Instrution: 
+Instruction: 
 
 1. Run npm install
 2. Create a MySQL database names "rest_api_ex"
