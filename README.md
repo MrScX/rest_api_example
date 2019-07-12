@@ -4,7 +4,7 @@ An example REST API CRUD operation in expressjs
 Instruction: 
 
 1. Run npm install
-2. Create a MySQL database names "rest_api_ex"
+2. Create a MySQL database named "rest_api_ex"
 3. Run the create-model.js which will create the users table inside the database.
 4. Run "npm start" to start the development server
 
